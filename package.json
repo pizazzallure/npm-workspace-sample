@@ -1,0 +1,10 @@
+{
+  "name": "ort-npm-test",
+  "version": "1.0.0",
+  "workspaces": [
+    "./packages/*"
+  ],
+  "dependencies": {
+    "xmlbuilder": "~11.0.0"
+  }
+}

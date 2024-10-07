@@ -1,0 +1,6 @@
+{
+  "name": "package-c",
+  "dependencies": {
+    "sax": ">=0.6.0"
+  }
+}
