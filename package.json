@@ -5,6 +5,7 @@
     "./packages/*"
   ],
   "dependencies": {
-    "xmlbuilder": "~11.0.0"
+    "xmlbuilder": "~11.0.0",
+	"brace-expansion": "~4.0.0"
   }
 }
