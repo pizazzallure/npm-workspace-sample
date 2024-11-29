@@ -2,6 +2,6 @@
   "name": "package-c",
   "version": "1.0.0",
   "dependencies": {
-    "sax": ">=0.6.0"
+    "marked": "0.3.6"
   }
 }
