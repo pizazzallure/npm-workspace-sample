@@ -5,7 +5,7 @@
     "./packages/*"
   ],
   "dependencies": {
-    "xmlbuilder": "~11.0.0",
-	"brace-expansion": "~4.0.0"
+    "@scope/app": "workspace:*",
+	  "brace-expansion": "~4.0.0"
   }
 }
