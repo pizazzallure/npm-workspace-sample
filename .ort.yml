@@ -5,3 +5,6 @@ excludes:
   - pattern: "packages/package-a"
     reason: "TEST_OF"
     comment: "Github Action Definitions"
+  - pattern: "ort/*"
+    reason: "TEST_OF"
+    comment: "Github Action Definitions"
