@@ -13,7 +13,7 @@ jobs:
       - uses: actions/checkout@v3
       - name: Run OSO ORT Analyzer
         id: analyzer
-        uses: porscheofficial/.github/workflows/ort-analyze@main
+        uses: porscheofficial/.github/workflows/ort-analyze@cf1c206dbdb9eae8df93d964bcc0238750c4850b
         with:
           ort-aws-access-key-id: ${{ secrets.ANALYZER_AWS_ACCESS_KEY_ID }}
           ort-aws-secret-access-key: ${{ secrets.ANALYZER_AWS_ACCESS_KEY }}
