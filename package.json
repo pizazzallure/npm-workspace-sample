@@ -7,5 +7,8 @@
   "dependencies": {
     "@scope/app": "workspace:*",
 	  "brace-expansion": "~4.0.0"
+  },
+  "devDependencies": {
+      "prettier": "3.5.1"
   }
 }
